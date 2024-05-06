@@ -1,0 +1,12 @@
+## SORTING ALGORITHMS
+
+Handy exercise to learn sorting algorithms
+
+## ALGORITHMS USED
+
+- BUBBLE SORT
+- INSERTION SORT
+- SELECTION SORT
+- QUICK SORT
+- MARGE SORT
+- HEAP SORT
